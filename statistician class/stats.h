@@ -1,5 +1,3 @@
-// Provided by:   ____________(your name here)__________
-// Email Address: ____________(your email address here)________
 // FILE: stats.h
 // CLASS PROVIDED: statistician
 //   (a class to keep track of statistics on a sequence of real numbers)
@@ -92,5 +90,4 @@ namespace main_savitch_2C
     // NON-MEMBER functions for the statistician class
     bool operator ==(const statistician& s1, const statistician& s2);
 }
-
 #endif
